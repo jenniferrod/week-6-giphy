@@ -1,0 +1,20 @@
+.jumbotron {
+    background-image: url("../images/splatter.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right top;
+    text-shadow: 1px 1px 2px white, 0 0 25px white, 0 0 5px white;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: black; 
+}
+
+button {
+    margin: 2px;
+}
+
+label {
+    margin-top: 10px;
+}
